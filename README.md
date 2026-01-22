@@ -21,3 +21,5 @@ This repository demonstrates how to use the `Set` interface in Java and its comm
 Set<Integer> set = new HashSet<>(list);
 
 You will need this!
+
+Bye!
